@@ -11,7 +11,7 @@ max_height = 0.5    # m workspace constraint
 
 # Search theta range (small tilt to near vertical)
 theta_values = np.linspace(5*np.pi/180, 85*np.pi/180, 300)
-
+#
 weights = []
 heights = []
 
