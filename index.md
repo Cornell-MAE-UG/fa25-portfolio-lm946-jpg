@@ -7,7 +7,7 @@ title: <Labhya Mehta>
 
 
 
-<img src="{{ 'DSC09277.JPG' | relative_url }}" alt="Profile Picture" width="200" />
+<img src="{{ 'assets/DSC09277.JPG' | relative_url }}" alt="Profile Picture" width="200" />
 
 
 
