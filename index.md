@@ -6,7 +6,8 @@ title: <Labhya Mehta>
 ## About Me
 
 
-![Profile Picture]({{ "DSC09277.JPG" | relative_url }}){: class="profile-image"}
+![Profile Picture](DSC09277.JPG)
+
 
 
  
