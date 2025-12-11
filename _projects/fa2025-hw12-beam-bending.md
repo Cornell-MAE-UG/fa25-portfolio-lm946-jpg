@@ -2,7 +2,6 @@
 layout: project
 title: Beam Bending Actuator Project
 image: /assets/images/spaceship-design.jpg
-link: https://drive.google.com/file/d/1ivtSAr0In0znb_PCnoBRG0q-1dDljl1w/view?usp=drive_link
 ---
 
 
@@ -101,3 +100,4 @@ Relax the rigid-beam assumption and design a beam that limits deflection while r
 
 
 ---
+
