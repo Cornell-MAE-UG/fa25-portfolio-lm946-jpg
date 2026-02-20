@@ -13,7 +13,7 @@ This past summer, I interned at Boeing where I designed and manufactured emergen
 
 All of these experiences have prepared me to work hard alongside other engineers in dynamic environments. I know what it takes for a team to work together, creatively problem-solve and find new solutions, and love learning new skills quickly.
 
-I am particularly drawn to the intersection of engineering design and computational simulation, leveraging tools like CAD, MySQL, and Python to model, analyze, and visualize complex systems. Through my projects and research interests in space systems engineering, I aim to contribute to advancing safe, efficient, and sustainable flight technologies.
+I am particularly drawn to the intersection of engineering design and computational simulation, leveraging tools like CAD, ANSYS, XFLR5, MySQL, and Python to model, analyze, and visualize complex systems. Through my projects and research interests in space systems engineering, I aim to contribute to advancing safe, efficient, and sustainable flight technologies.
 
 <div style="clear: both; margin-top: 20px;"></div>
 
