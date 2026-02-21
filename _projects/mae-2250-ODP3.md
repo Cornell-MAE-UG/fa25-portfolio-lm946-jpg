@@ -4,32 +4,49 @@ title: MAE 2250 ODP 3
 image: /assets/images/odp3-diagram.jpg
 ---
 
-# Inline Separation of Spotted Lanternflies
-**Team:** Di-Vine Intervention | **Course:** MAE 2250
+# Inline Separation of Spotted Lanternflies (SLF)
+**Team:** Di-Vine Intervention | **Client:** Cornell CALS Extension / E&J Gallo Winery 
 
-## The Challenge: Commercial Contamination
-During mechanical grape harvesting, Spotted Lanternflies (SLF) are often collected alongside the fruit. At a commercial scale—processing 2–3 tons per hour—the presence of more than **1–2 SLF per 1,000g** can lead to entire loads being rejected. Current manual sorting removes only ~50% of pests and reduces usable yield, making it ineffective for high-speed production.
+## The Challenge: Contamination in Grape Harvesting 
+Mechanical grape harvesters often collect Spotted Lanternflies (SLF) along with the fruit. Even a small amount of contamination—more than 1–2 SLF per 1000g—can lead to entire loads being rejected by processors. Current manual sorting is only 50% effective and slows down commercial throughput. 
 
-## Our Solution: Hybrid Pneumatic Sorter
-We designed an inline mechanical system to remove SLF during conveyance without bruising grapes or slowing the harvest rate.
+## Our Solution: Pneumatic & Physical Sorting
+I worked on a team to design an **Inline Sorter** that integrates directly with existing conveyor systems to remove pests without bruising the fruit. 
 
-### System Design Components:
-* **Mechanical Agitation**: A motor-driven roller with bristles performs preliminary sorting to dislodge insects from the "grape soup".
-* **Pneumatic Extraction**: A compressed air system generates a jet velocity of 5–10m/s to expel adult SLF (0.2–0.3g mass) from the conveyor.
-* **Vacuum Collection**: A suction system positioned opposite the air jets captures the expelled insects into a dedicated trough for safe disposal.
+### Key Design Features:
+* **Mechanical Pre-Sorting:** A motor-driven roller with bristles for initial agitation.
+* **Pneumatic Extraction:** A compressed air system utilizing jet velocities of 5-10m/s to dislodge adult SLF based on their 0.2-0.3g mass.
+* **Vacuum Collection:** A suction system positioned opposite the air jets to safely collect and remove the pests from the harvest stream.
 
 
 
-## Addressing Engineering Risks
-In response to instructor feedback, our design focuses on:
-* **Yield Preservation**: Calibrating air jet force to dislodge pests without displacing or bruising fruit.
-* **Volumetric Flow**: Implementing varying levels of compressed air to ensure insects aren't trapped under high volumes of grapes.
-* **Sanitation**: Ensuring the system can be retrofitted onto current harvesters while meeting food-grade cleaning requirements.
+## Addressing Implementation Risks
+In response to design feedback, our team focused on the "reproducibility" of the system. While pneumatic sorting is effective for whole insects, we identified and addressed several critical challenges:
+* **Grape Loss vs. Purity:** We calibrated air pressure to minimize "false identifications" (accidentally blowing away grapes) while maintaining high SLF removal rates.
+* **Sanitation & Maintenance:** The system is designed for easy retrofitting to avoid requiring a total harvester redesign, ensuring it meets food-grade sanitation requirements.
+* **High Volumetric Flow:** We accounted for the challenge of sorting bugs buried under large volumes of crushed fruit and juice.
 
-## Technical Documentation
-For full technical specifications, pneumatic force calculations, and client-facing analysis, view the complete proposal below.
-
-[**Download Project Proposal (PDF)**]({{ "/assets/pdf/project-proposal.pdf" | relative_url }})
+## Skills Demonstrated
+* **Mechanical Design:** Prototyping a multi-stage sorting assembly.
+* **Pneumatic Analysis:** Calculating air jet force requirements based on insect mass.
+* **Client Collaboration:** Developing engineering solutions for real-world agricultural stakeholders.
 
 ---
-[← Back to Projects]({{ "/projects/" | relative_url }})
+
+### Project Documentation
+For a deep dive into the technical specifications, risk analysis, and client questions, view the full proposal below:
+
+[**Download Full Project Proposal (PDF)**]({{ "/assets/pdf/Client Outline.pdf" | relative_url }})
+
+---
+{% comment %}
+<style>
+  h2:contains("Technologies Used"), 
+  h3:contains("Technologies Used"),
+  .project-technology-header { 
+    display: none !important; 
+  }
+</style>
+{% endcomment %}
+
+
