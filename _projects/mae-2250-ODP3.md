@@ -15,4 +15,4 @@ This project involved the design of an automated sorting system. The system util
 
 ### Full Report
 For the complete technical details and analysis, you can view the PDF here:
-[Download ODP 3 PDF]({{ "/assets/pdf/Note Feb 19, 2026.pdf" | relative_url }})
+[Download Project Proposal PDF]({{ "/assets/pdf/project-proposal.pdf" | relative_url }})
