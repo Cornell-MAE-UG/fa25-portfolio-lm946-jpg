@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Di-Vine Intervention: Inline SLF Separation"
+title: "MAE 2250: ODP 3"
 subtitle: "Designing Mechanical Solutions for Agricultural Pest Contamination" 
 image: /assets/images/odp3-diagram.jpg
 ---
