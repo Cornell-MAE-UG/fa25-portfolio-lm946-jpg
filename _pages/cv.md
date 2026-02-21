@@ -22,9 +22,9 @@ Aspiring engineering student with a strong foundation in aerospace design. Passi
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
   GPA: 4.0/4.0 | Graduation: May, 2028
 
-- **[St. Xavier's Sr. Sec. School]**  
+- **St. Xavier's Sr. Sec. School**  
   *High School Diploma*  
-  Graduation: [April, 2024]
+  Graduation: April, 2024
 
 ---
 
@@ -75,13 +75,13 @@ Aspiring engineering student with a strong foundation in aerospace design. Passi
 ---
 
 #### Achievements & Certifications
-- [Tata Scholar], [Cornell University], [2024-28]  
+- Tata Scholar, Cornell University, 2024-28 
 
 ---
 
 #### Extracurricular Activities
-- President of [WOAA]  
-- Secretary of [ASME]  
+- President of WOAA  
+- Secretary of ASME  
 
 ---
 
