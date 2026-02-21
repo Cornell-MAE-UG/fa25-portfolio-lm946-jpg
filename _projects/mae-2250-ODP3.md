@@ -6,7 +6,8 @@ image: /assets/images/odp3-diagram.jpg
 ---
 
 # Inline Separation of Spotted Lanternflies (SLF)
-**Team:** Di-Vine Intervention | **Clients:** Cornell CALS Extension / E&J Gallo Winery / National Grape
+**Team:** Di-Vine Intervention |  
+**Clients:** Cornell CALS Extension / E&J Gallo Winery / National Grape
 
 ## 01. The Problem
 During mechanical grape harvesting, Spotted Lanternflies (SLF) are unintentionally collected with the fruit. At a commercial scale (2–3 tons/hour), more than 1–2 insects per 1000g can trigger contamination concerns and lead to rejected loads.
