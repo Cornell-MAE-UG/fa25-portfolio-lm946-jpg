@@ -11,7 +11,7 @@ image: /assets/images/odp3-diagram.jpg
 ## 01. The Problem
 During mechanical grape harvesting, Spotted Lanternflies (SLF) are unintentionally collected with the fruit. At a commercial scale (2–3 tons/hour), more than 1–2 insects per 1000g can trigger contamination concerns and lead to rejected loads.
 
-Current sorting methods—manual labor or post-harvest washing—can remove up to 50% of usable yield, making them economically unviable at the speed required for commercial viticulture.
+Current sorting methods—manual labor or post-harvest washing—can remove up to 50% of usable yield, making them economically unviable at the speed required for commercial viticulture. 
 
 ## 02. The Solution: SLF Inline Sorter
 Our team proposed a mechanical system designed to be retrofitted onto existing conveyor systems. The goal is to remove SLF without bruising grapes, slowing the harvest, or requiring a total harvester redesign.
