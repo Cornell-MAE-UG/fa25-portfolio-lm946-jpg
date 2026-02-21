@@ -8,7 +8,7 @@ image: /assets/images/odp3-diagram.jpg
 **Team:** Di-Vine Intervention | **Client:** Cornell CALS Extension / E&J Gallo Winery 
 
 ## The Challenge: Contamination in Grape Harvesting 
-Mechanical grape harvesters often collect Spotted Lanternflies (SLF) along with the fruit. Even a small amount of contamination—more than 1–2 SLF per 1000g—can lead to entire loads being rejected by processors. Current manual sorting is only 50% effective and slows down commercial throughput.
+Mechanical grape harvesters often collect Spotted Lanternflies (SLF) along with the fruit. Even a small amount of contamination—more than 1–2 SLF per 1000g—can lead to entire loads being rejected by processors. Current manual sorting is only 50% effective and slows down commercial throughput. 
 
 ## Our Solution: Pneumatic & Physical Sorting
 I worked on a team to design an **Inline Sorter** that integrates directly with existing conveyor systems to remove pests without bruising the fruit. 
