@@ -15,4 +15,4 @@ This project involved the design of an automated sorting system. The system util
 
 ### Full Report
 For the complete technical details and analysis, you can view the PDF here:
-[Download Project Proposal PDF]({{ "/assets/pdf/project-proposal.pdf" | relative_url }})
+[View the Full Project Proposal PDF]({{ "/assets/pdf/project-proposal.pdf" | relative_url }})
