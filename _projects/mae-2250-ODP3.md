@@ -5,7 +5,7 @@ subtitle: "Designing Mechanical Solutions for Agricultural Pest Contamination"
 image: /assets/images/odp3-diagram.jpg
 ---
 
-# Inline Spotted Lanternfly Sorter (SLF)
+# Inline Separation of Spotted Lanternflies (SLF)
 **Team:** Di-Vine Intervention |  
 **Clients:** Cornell CALS Extension / E&J Gallo Winery / National Grape
 
