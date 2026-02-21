@@ -33,7 +33,7 @@ To move from concept to reality, our design addresses several critical engineeri
 ## 04. Technical Documentation & Industry Context
 For a deeper dive into the pneumatic force calculations, cost-benefit analysis, and retrofitting strategy, you can view our full technical proposal below.
 
-[**Download Full Project Proposal (PDF)**]({{ "/assets/pdf/project-proposal.pdf" | relative_url }})
+[**Download Full Project Proposal (PDF)**]({{ "/assets/pdf/Client Outline.pdf" | relative_url }})
 
 ### Industry Research
 Our design was informed by current state-of-the-art optical and mechanical sorting technologies used in large-scale agriculture:
