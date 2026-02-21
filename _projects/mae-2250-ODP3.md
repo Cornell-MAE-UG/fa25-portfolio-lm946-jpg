@@ -40,3 +40,10 @@ For a deep dive into the technical specifications, risk analysis, and client que
 
 ---
 [← Back to Projects]({{ "/projects/" | relative_url }})
+<style>
+  h2:contains("Technologies Used"), 
+  h3:contains("Technologies Used"),
+  .project-technology-header { 
+    display: none !important; 
+  }
+</style>
