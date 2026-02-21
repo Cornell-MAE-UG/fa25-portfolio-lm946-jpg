@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Di-Vine Intervention: Inline SLF Separation"
-subtitle: "Designing Mechanical Solutions for Agricultural Pest Contamination"
+subtitle: "Designing Mechanical Solutions for Agricultural Pest Contamination" 
 image: /assets/images/odp3-diagram.jpg
 ---
 
