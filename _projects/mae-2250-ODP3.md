@@ -10,19 +10,19 @@ image: /assets/images/odp3-diagram.jpg
 
 ## 01. The Problem
 **The Challenge of "Grape Soup"**
-During mechanical grape harvesting, Spotted Lanternflies (SLF) are unintentionally collected with the fruit. At a commercial scale (2–3 tons/hour), even **1–2 insects per 1000g** can trigger contamination concerns and lead to rejected loads.
+During mechanical grape harvesting, Spotted Lanternflies (SLF) are unintentionally collected with the fruit. At a commercial scale (2–3 tons/hour), more than 1–2 insects per 1000g can trigger contamination concerns and lead to rejected loads.
 
-Current sorting methods—manual labor or post-harvest washing—can remove up to **50% of usable yield**, making them economically unviable at the speed required for commercial viticulture.
+Current sorting methods—manual labor or post-harvest washing—can remove up to 50% of usable yield, making them economically unviable at the speed required for commercial viticulture.
 
 ## 02. The Solution: A Triple-Action Inline Sorter
-Our team proposed a mechanical system designed to be retrofitted onto existing conveyor systems. The goal: remove SLF without bruising grapes, slowing the harvest, or requiring a total harvester redesign.
+Our team proposed a mechanical system designed to be retrofitted onto existing conveyor systems. The goal is to remove SLF without bruising grapes, slowing the harvest, or requiring a total harvester redesign.
 
 ### Key Design Features:
-* **Preliminary Sorting:** A motor-driven roller with specialized bristles to gently agitate the "grape soup" and surface the insects.
+* **Preliminary Sorting:** A motor-driven roller with specialized bristles to gently agitate the grapes and surface the insects.
 * **Pneumatic Extraction:** High-velocity compressed air jets (5–10m/s) targeted to expel adult SLF based on their specific mass (0.2–0.3g).
 * **Vacuum Collection:** A synchronized suction system to capture expelled SLF for contained disposal, preventing re-entry into the harvest stream.
 
-> **Why it’s better:** Unlike standard MOG (Material Other than Grapes) systems, this is specifically tuned for the weight and aerodynamic properties of the Spotted Lanternfly.
+> **Why it’s better:** Unlike standard MOG (Material Other than Grapes) systems, this is specifically tuned for the weight and grip strength of the Spotted Lanternfly.
 
 ## 03. Engineering Considerations & Risk Mitigation
 To move from concept to reality, our design addresses several critical engineering constraints:
@@ -33,9 +33,7 @@ To move from concept to reality, our design addresses several critical engineeri
 ## 04. Technical Documentation & Industry Context
 For a deep dive into our technical analysis, risk mitigation strategies, and the questions we developed for our industry clients (CALS Extension / E&J Gallo Winery), you can view our full client outline below.
 
-[**View Full Project Proposal (PDF)**]({{ "/assets/pdf/project-proposal.pdf" | relative_url }})
-
-[**Download Full Project Proposal (PDF)**]({{ "/assets/pdf/Client Outline.pdf" | relative_url }})
+[**Download Full Client Outline (PDF)**]({{ "/assets/pdf/Client Outline.pdf" | relative_url }})
 
 ### Industry Research
 Our design was informed by current state-of-the-art optical and mechanical sorting technologies used in large-scale agriculture:
