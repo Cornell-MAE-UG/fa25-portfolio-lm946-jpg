@@ -1,0 +1,29 @@
+---
+layout: default
+title: "MAE 2250: Open Design Project (ODP)"
+---
+
+# Open Design Project: [Your Project Name Here]
+
+## Overview
+This project was part of **MAE 2250: Introduction to Mechanical Design** at Cornell. The ODP is a hands-on design experience where we identify a problem, research user needs, and iterate through prototyping and evaluation.
+
+### The Challenge
+*Describe the specific problem your team addressed. What were the mechanical constraints?*
+
+### My Contribution
+*Highlight your specific role (e.g., CAD design, mechanism analysis, or prototype fabrication).*
+
+### Tools & Skills Used
+* **CAD:** Used for modeling [Component Name].
+* **Manufacturing:** Laser cutting, 3D printing, or machine shop tools.
+* **Collaboration:** Project management and version tracking.
+
+---
+
+## Documentation
+Below is the full project documentation. 
+
+* [Download/View Full Project PDF (ODP)]({{ "/assets/pdf/MAE_2250_ODP.pdf" | relative_url }})
+
+[← Back to Projects]({{ "/projects/" | relative_url }})
