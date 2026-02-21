@@ -1,52 +1,44 @@
 ---
 layout: project
-title: MAE 2250 ODP 3
+title: "Di-Vine Intervention: Inline SLF Separation"
+subtitle: "Designing Mechanical Solutions for Agricultural Pest Contamination"
 image: /assets/images/odp3-diagram.jpg
 ---
 
 # Inline Separation of Spotted Lanternflies (SLF)
-**Team:** Di-Vine Intervention | **Client:** Cornell CALS Extension / E&J Gallo Winery 
+**Team:** Di-Vine Intervention | **Course:** MAE 2250 | **Clients:** : Cornell CALS Extension / E&J Gallo Winery / National Grape
 
-## The Challenge: Contamination in Grape Harvesting 
-Mechanical grape harvesters often collect Spotted Lanternflies (SLF) along with the fruit. Even a small amount of contamination—more than 1–2 SLF per 1000g—can lead to entire loads being rejected by processors. Current manual sorting is only 50% effective and slows down commercial throughput. 
+## 01. The Problem
+**The Challenge of "Grape Soup"**
+During mechanical grape harvesting, Spotted Lanternflies (SLF) are unintentionally collected with the fruit. At a commercial scale (2–3 tons/hour), even **1–2 insects per 1000g** can trigger contamination concerns and lead to rejected loads.
 
-## Our Solution: Pneumatic & Physical Sorting
-I worked on a team to design an **Inline Sorter** that integrates directly with existing conveyor systems to remove pests without bruising the fruit. 
+Current sorting methods—manual labor or post-harvest washing—can remove up to **50% of usable yield**, making them economically unviable at the speed required for commercial viticulture.
+
+## 02. The Solution: A Triple-Action Inline Sorter
+Our team proposed a mechanical system designed to be retrofitted onto existing conveyor systems. The goal: remove SLF without bruising grapes, slowing the harvest, or requiring a total harvester redesign.
 
 ### Key Design Features:
-* **Mechanical Pre-Sorting:** A motor-driven roller with bristles for initial agitation.
-* **Pneumatic Extraction:** A compressed air system utilizing jet velocities of 5-10m/s to dislodge adult SLF based on their 0.2-0.3g mass.
-* **Vacuum Collection:** A suction system positioned opposite the air jets to safely collect and remove the pests from the harvest stream.
+* **Preliminary Sorting:** A motor-driven roller with specialized bristles to gently agitate the "grape soup" and surface the insects.
+* **Pneumatic Extraction:** High-velocity compressed air jets (5–10m/s) targeted to expel adult SLF based on their specific mass (0.2–0.3g).
+* **Vacuum Collection:** A synchronized suction system to capture expelled SLF for contained disposal, preventing re-entry into the harvest stream.
 
+> **Why it’s better:** Unlike standard MOG (Material Other than Grapes) systems, this is specifically tuned for the weight and aerodynamic properties of the Spotted Lanternfly.
 
+## 03. Engineering Considerations & Risk Mitigation
+To move from concept to reality, our design addresses several critical engineering constraints:
+* **Volumetric Flow:** Adjusting air pressure dynamically to ensure insects aren't buried under high-density grape layers.
+* **Yield Preservation:** Ensuring the pneumatic force is sufficient to move an insect but insufficient to bruise a grape.
+* **Sanitation:** Designing the roller and vacuum components to meet food-grade cleaning requirements for harvest equipment.
 
-## Addressing Implementation Risks
-In response to design feedback, our team focused on the "reproducibility" of the system. While pneumatic sorting is effective for whole insects, we identified and addressed several critical challenges:
-* **Grape Loss vs. Purity:** We calibrated air pressure to minimize "false identifications" (accidentally blowing away grapes) while maintaining high SLF removal rates.
-* **Sanitation & Maintenance:** The system is designed for easy retrofitting to avoid requiring a total harvester redesign, ensuring it meets food-grade sanitation requirements.
-* **High Volumetric Flow:** We accounted for the challenge of sorting bugs buried under large volumes of crushed fruit and juice.
+## 04. Technical Documentation & Industry Context
+For a deeper dive into the pneumatic force calculations, cost-benefit analysis, and retrofitting strategy, you can view our full technical proposal below.
 
-## Skills Demonstrated
-* **Mechanical Design:** Prototyping a multi-stage sorting assembly.
-* **Pneumatic Analysis:** Calculating air jet force requirements based on insect mass.
-* **Client Collaboration:** Developing engineering solutions for real-world agricultural stakeholders.
+[**Download Full Project Proposal (PDF)**]({{ "/assets/pdf/project-proposal.pdf" | relative_url }})
 
----
-
-### Project Documentation
-For a deep dive into the technical specifications, risk analysis, and client questions, view the full proposal below:
-
-[**Download Full Project Proposal (PDF)**]({{ "/assets/pdf/Client Outline.pdf" | relative_url }})
+### Industry Research
+Our design was informed by current state-of-the-art optical and mechanical sorting technologies used in large-scale agriculture:
+* [Harvest Optimization Technology (MOG)](https://www.youtube.com/watch?v=JEM50O9d-M8)
+* [Optical Sorting in Motion](https://www.youtube.com/watch?v=iSd4RgrFOtg)
 
 ---
-{% comment %}
-<style>
-  h2:contains("Technologies Used"), 
-  h3:contains("Technologies Used"),
-  .project-technology-header { 
-    display: none !important; 
-  }
-</style>
-{% endcomment %}
-
-
+[← Back to Projects]({{ "/projects/" | relative_url }})
