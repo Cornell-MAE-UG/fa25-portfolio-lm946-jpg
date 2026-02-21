@@ -36,7 +36,7 @@ In response to design feedback, our team focused on the "reproducibility" of the
 ### Project Documentation
 For a deep dive into the technical specifications, risk analysis, and client questions, view the full proposal below:
 
-[**Download Full Project Proposal (PDF)**]({{ "/assets/pdf/project-proposal.pdf" | relative_url }})
+[**Download Full Project Proposal (PDF)**]({{ "/assets/pdf/Client Outline.pdf" | relative_url }})
 
 ---
 {% comment %}
