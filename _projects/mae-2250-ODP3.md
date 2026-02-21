@@ -33,7 +33,7 @@ To move from concept to reality, our design addresses several critical engineeri
 ## 04. Technical Documentation & Industry Context
 For a deep dive into our technical analysis, risk mitigation strategies, and the questions we developed for our industry clients (CALS Extension / E&J Gallo Winery), you can view our full client outline below.
 
-[**Download Full Client Outline (PDF)**]({{ "/assets/pdf/Client Outline.pdf" | relative_url }})
+[**Download Full Client Outline (PDF)**]({{ "/assets/pdf/Client Outline & Pitch.pdf" | relative_url }})
 
 ### Industry Research
 Our design was informed by current state-of-the-art optical and mechanical sorting technologies used in large-scale agriculture:
