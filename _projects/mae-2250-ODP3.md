@@ -39,6 +39,7 @@ For a deep dive into the technical specifications, risk analysis, and client que
 [**Download Full Project Proposal (PDF)**]({{ "/assets/pdf/project-proposal.pdf" | relative_url }})
 
 ---
+{% comment %}
 <style>
   h2:contains("Technologies Used"), 
   h3:contains("Technologies Used"),
@@ -46,3 +47,4 @@ For a deep dive into the technical specifications, risk analysis, and client que
     display: none !important; 
   }
 </style>
+{% endcomment %}
