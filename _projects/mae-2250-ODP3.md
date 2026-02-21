@@ -31,7 +31,9 @@ To move from concept to reality, our design addresses several critical engineeri
 * **Sanitation:** Designing the roller and vacuum components to meet food-grade cleaning requirements for harvest equipment.
 
 ## 04. Technical Documentation & Industry Context
-For a deeper dive into the pneumatic force calculations, cost-benefit analysis, and retrofitting strategy, you can view our full technical proposal below.
+For a deep dive into our technical analysis, risk mitigation strategies, and the questions we developed for our industry clients (CALS Extension / E&J Gallo Winery), you can view our full client outline below.
+
+[**View Full Project Proposal (PDF)**]({{ "/assets/pdf/project-proposal.pdf" | relative_url }})
 
 [**Download Full Project Proposal (PDF)**]({{ "/assets/pdf/Client Outline.pdf" | relative_url }})
 
