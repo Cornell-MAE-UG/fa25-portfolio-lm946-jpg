@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Spotted Lanternfly Removal System"
+title: "Spotted Lanternfly Inline Separation System"
 subtitle: "Designing Mechanical Solutions for Agricultural Pest Contamination" 
 image: /assets/images/odp3-diagram.jpg
 ---
