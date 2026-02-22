@@ -148,7 +148,6 @@ footer {
 }
 
 .gallery-item {
-  overflow: hidden;
   text-align: center;
   transition: transform 0.3s ease;
   max-width: 250px; 
@@ -199,9 +198,4 @@ footer {
   color: #3a3f58; 
   transform: translateX(-4px);
 }
-/* Ensure project titles display fully */
-.project-item h3 {
-  white-space: normal;   /* Allow text to wrap */
-  overflow: visible;     /* Show all content */
-  text-overflow: clip;   /* Remove ellipsis (…) */
-}
+
