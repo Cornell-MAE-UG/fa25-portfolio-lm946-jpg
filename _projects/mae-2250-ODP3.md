@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Di-Vine Intervention: Spotted Lanternfly Inline Sorter"
+title: "Spotted Lanternfly Removal System"
 subtitle: "Designing Mechanical Solutions for Agricultural Pest Contamination" 
 image: /assets/images/odp3-diagram.jpg
 ---
