@@ -98,25 +98,68 @@ Our design was informed by current state-of-the-art optical and mechanical sorti
 ## Functional Prototype
 
 ### Purpose
-The objective of the functional prototype was to evaluate...
+The purpose of this functional prototype was to evaluate whether a brush-based mechanical system could effectively dislodge Spotted Lanternflies (SLF) from grape clusters without damaging the fruit or disrupting flow conditions. The prototype focuses on validating the feasibility of mechanical agitation as a primary separation method.
+
+---
+
+### Prototype Design
+
+The prototype consists of a simplified inline system including:
+
+- A **shaft-mounted rotary brush** driven by a handheld drill  
+- A **manual conveyor simulation** using a sliding cardboard base  
+- A **partition and collection region** to separate dislodged SLF  
+
+This setup replicates the key interactions between brush, grapes, and contaminants in a controlled environment.
+
+---
+
+### Prototype Sketch
+
+![Prototype Sketch]({{ "/assets/images/odp3-diagram.jpg" | relative_url }})
+
+*Figure: Conceptual sketch of the prototype system showing brush placement, conveyor direction, and collection regions.*
+
+---
+
+### Assembled Prototype
+
+![Assembled Prototype]({{ "/assets/images/IMG_1492.jpg" | relative_url }})
+
+*Figure: Physical prototype used for testing, including rotary brush, shaft, and conveyor simulation.*
+
+---
 
 ### What Was Tested
-- Effectiveness of brush-induced agitation  
-- Response of SLF to varying air velocities  
-- Selectivity of pneumatic removal  
+
+- Brush rotation speed and its effect on SLF removal  
+- Bristle coverage across the conveyor width  
+- Stability and consistency of the conveyor simulation  
+- Overall SLF removal efficiency per pass  
+
+---
 
 ### Results & Outcomes
-- Airflow successfully displaced SLF analogs  
-- Minimal movement of grape analogs  
+
+- Optimal brush speed identified at approximately **500 RPM**  
+- SLF removal efficiency reached **~70–75% per pass**  
+- Minimal grape damage observed, though some displacement occurred  
+- Inconsistent removal across width due to uneven bristle distribution  
+- Conveyor instability led to occasional loss of grape clusters  
+
+---
 
 ### Key Takeaways
-- Pneumatic separation is viable  
-- Pre-conditioning is critical  
 
-### Next Steps
-- Refine airflow delivery geometry  
-- Improve brush design  
+- Mechanical brushing is an effective **preliminary separation method**  
+- System performance depends heavily on **uniform material flow**  
+- Brush design and coverage are critical to improving efficiency  
 
+---
+
+### Full Report
+
+[**View Full Prototype Report (PDF)**]({{ "/assets/pdf/ODP 5.pdf" | relative_url }})
 </div>
 
 </details>
