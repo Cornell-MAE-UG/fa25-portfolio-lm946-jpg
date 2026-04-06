@@ -34,9 +34,11 @@ This multi-stage approach enables **continuous, non-destructive separation** whi
 
 ## Conceptual Design
 
-![System Sketch](/assets/images/your-sketch-image.jpg)
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/odp3-diagram.jpg' | relative_url }}" alt="SLF Inline Separation System Diagram" style="max-width: 100%; height: auto; border-radius: 6px;">
+</div>
 
-*Figure: Conceptual layout of the inline SLF separation system, illustrating conveyor partitioning, brush interaction, pneumatic removal, and multi-stage collection.*
+*Figure: Conceptual diagram of the inline Spotted Lanternfly separation system, showing conveyor partitioning, rotary brush agitation, pneumatic extraction via compressed air jets, and multi-stage collection troughs for insect removal.*
 
 ---
 
