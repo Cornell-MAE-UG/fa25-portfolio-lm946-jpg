@@ -135,6 +135,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 </details>
 
+---
 
 ## Project Overview
 
