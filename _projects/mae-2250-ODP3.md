@@ -7,7 +7,7 @@ image: /assets/images/odp3-diagram.jpg
 
 ## Project Overview
 
-Mechanical grape harvesting operates at high throughput rates (2–3 tons/hour), where even minor contamination by Spotted Lanternflies (SLF) can result in rejected harvest loads and significant economic loss. Existing mitigation strategies—such as manual sorting or post-harvest washing—are not scalable and often result in reduced yield and increased labor costs.
+Mechanical grape harvesting operates at high throughput rates (2–3 tons/hour), where even minor contamination by Spotted Lanternflies (SLF) can result in rejected harvest loads and significant economic loss. Existing mitigation strategies such as manual sorting or post-harvest washing are not scalable and often result in reduced yield and increased labor costs.
 
 This project proposes an **inline mechanical separation system** designed to integrate directly into existing harvesting workflows. The objective is to selectively remove SLF during conveyance without interrupting throughput or compromising grape integrity.
 
