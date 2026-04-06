@@ -116,7 +116,11 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ### Prototype Sketch
 
-![Prototype Sketch]({{ "/assets/images/odp3-diagram.jpg" | relative_url }})
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/agkgdfa .png' | relative_url }}" 
+       style="width: 60%; max-width: 500px; height: auto;">
+</div>
+
 
 *Figure: Conceptual sketch of the prototype system showing brush placement, conveyor direction, and collection regions.*
 
@@ -124,7 +128,10 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ### Assembled Prototype
 
-![Assembled Prototype]({{ "/assets/images/IMG_1492.jpg" | relative_url }})
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/IMG_1492.jpg' | relative_url }}" 
+       style="width: 60%; max-width: 500px; height: auto;">
+</div>
 
 *Figure: Physical prototype used for testing, including rotary brush, shaft, and conveyor simulation.*
 
