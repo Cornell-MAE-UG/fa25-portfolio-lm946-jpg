@@ -5,7 +5,7 @@ title: Labhya Mehta
 
 ## About Me
 
-<img src="AAAA.PNG" alt="Profile Picture" style="float: left !important; width: 250px !important; margin-right: 25px !important; margin-bottom: 10px !important; border-radius: 10px !important; display: inline-block !important;">
+<img src="{{ '/assets/images/aaaa.png' | relative_url }}" alt="Profile Picture" style="float: left !important; width: 250px !important; margin-right: 25px !important; margin-bottom: 10px !important; border-radius: 10px !important; display: inline-block !important;">
 
 My name is Labhya Mehta, and I am a sophomore studying Mechanical and Aerospace Engineering at Cornell with experience in aerospace design and manufacturing. I am passionate about spaceflight mechanics, aeromodelling, and space systems.
 
