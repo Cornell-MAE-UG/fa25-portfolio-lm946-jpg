@@ -204,11 +204,9 @@ This multi-stage design ensures that separation is **progressive rather than sin
 
 ### 3.2 CAD Development
 
-Two CAD perspectives were used to validate spatial layout and subsystem integration:
 
 <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
-  <img src="{{ '/assets/images/cad_angle_1.jpg' | relative_url }}" style="width:48%; border-radius:8px;">
-  <img src="{{ '/assets/images/cad_angle_2.jpg' | relative_url }}" style="width:48%; border-radius:8px;">
+  <img src="{{ '/assets/cad.png' | relative_url }}" style="width:48%; border-radius:8px;"> 
 </div>
 
 *CAD models used to validate alignment of brush shaft, airflow direction, and conveyor clearance.*
@@ -218,6 +216,11 @@ Two CAD perspectives were used to validate spatial layout and subsystem integrat
 ### 3.3 Physical Prototype Build
 
 The final prototype was constructed using a combination of **wood, cardboard, and 3D-printed components** to replicate industrial-scale behavior at bench scale.
+
+<div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+  <img src="{{ '/assets/exhibit.png' | relative_url }}" style="width:48%; border-radius:8px;"> 
+</div>
+
 
 #### Structural Frame
 - Two wooden side walls mounted on a long wooden baseboard  
@@ -255,7 +258,7 @@ The final prototype was constructed using a combination of **wood, cardboard, an
 ### 3.4 Final Assembled Prototype
 
 <div style="text-align:center;">
-  <img src="{{ '/assets/images/IMG_1492.jpg' | relative_url }}" style="width:70%; border-radius:8px;">
+  <img src="{{ '/assets/IMG_7151.jpeg' | relative_url }}" style="width:70%; border-radius:8px;">
 </div>
 
 *Final assembled prototype integrating conveyor, brush system, airflow unit, and dual collection bins.*
@@ -295,7 +298,7 @@ Testing was conducted using **fresh grapes and paper SLF models** to evaluate:
 #### Live Prototype Operation
 <div style="text-align:center;">
   <video width="70%" controls>
-    <source src="{{ '/assets/videos/prototype_demo.mp4' | relative_url }}" type="video/mp4">
+    <source src="{{ '/assets/IMG_1574.mov' | relative_url }}" type="video/mp4">
   </video>
 </div>
 
@@ -306,7 +309,7 @@ Testing was conducted using **fresh grapes and paper SLF models** to evaluate:
 #### SLF Removal Testing
 <div style="text-align:center;">
   <video width="70%" controls>
-    <source src="{{ '/assets/videos/testing_slfs.mp4' | relative_url }}" type="video/mp4">
+    <source src="{{ '/assets/IMG_5824.mov' | relative_url }}" type="video/mp4">
   </video>
 </div>
 
