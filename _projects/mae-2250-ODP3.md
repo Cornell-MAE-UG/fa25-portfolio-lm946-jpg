@@ -195,7 +195,7 @@ This multi-stage design ensures that separation is **progressive rather than sin
 ### 3.1 Concept Sketch
 
 <div style="text-align:center;">
-  <img src="{{ '/assets/images/agkgdfa.png' | relative_url }}" style="width:65%; border-radius:8px;">
+  <img src="{{ '/assets/sketch.png' | relative_url }}" style="width:65%; border-radius:8px;">
 </div>
 
 *Initial system layout showing conveyor flow, brush placement, airflow zone, and collection regions.*
