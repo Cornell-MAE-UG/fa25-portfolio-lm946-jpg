@@ -298,7 +298,7 @@ Testing was conducted using **fresh grapes and paper SLF models** to evaluate:
 #### Live Prototype Operation
 <div style="text-align:center;">
   <video width="70%" controls>
-    <source src="{{ '/assets/IMG_1574.mov' | relative_url }}" type="video/mp4">
+    <source src="{{ '/assets/IMG_1574.MOV' | relative_url }}" type="video/mp4">
   </video>
 </div>
 
