@@ -61,14 +61,22 @@ Our design was informed by current state-of-the-art optical and mechanical sorti
 
 <div markdown="1">
 
-## Functional Prototype
+## Quick Navigation
+- [1. Purpose](#system-overview)
+- [2. Prototype Design](#prototype-design)
+- [3. Prototype Sketch](#prototype-sketch)
+- [4. Assembled Prototype](#assembled-prototype)
+- [5. What Was Tested](#what-was-tested)
+- [6. Results & Outcomes](#results-and-outcomes)
+- [7. Key Takeaways](#key-takeaways)
+- [8. Full Report](#full-prototype-report)
 
-## 01. Purpose
+## 01. Purpose <a name="purpose"></a>
 The purpose of this functional prototype was to evaluate whether a brush-based mechanical system could effectively dislodge Spotted Lanternflies (SLF) from grape clusters without damaging the fruit or disrupting flow conditions. The prototype focuses on validating the feasibility of mechanical agitation as a primary separation method.
 
 ---
 
-## 02. Prototype Design
+## 02. Prototype Design <a name="prototype-design"></a>
 
 The prototype consists of a simplified inline system including:
 
@@ -80,7 +88,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ---
 
-## 03. Prototype Sketch
+## 03. Prototype Sketch <a name="prototype-sketch"></a>
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/agkgdfa .png' | relative_url }}" 
@@ -92,7 +100,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ---
 
-## 04. Assembled Prototype
+## 04. Assembled Prototype <a name="assembled-prototype"></a>
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/IMG_1492.jpg' | relative_url }}" 
@@ -103,7 +111,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ---
 
-## 05. What Was Tested
+## 05. What Was Tested <a name="what-was-tested"></a>
 
 - Brush rotation speed and its effect on SLF removal  
 - Bristle coverage across the conveyor width  
@@ -112,7 +120,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ---
 
-## 06. Results & Outcomes
+## 06. Results & Outcomes <a name="results-and-outcomes"></a>
 
 - Optimal brush speed identified at approximately **500 RPM**  
 - SLF removal efficiency reached **~70–75% per pass**  
@@ -122,7 +130,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ---
 
-## 07. Key Takeaways
+## 07. Key Takeaways <a name="key-takeaways"></a>
 
 - Mechanical brushing is an effective **preliminary separation method**  
 - System performance depends heavily on **uniform material flow**  
@@ -130,7 +138,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ---
 
-## 08. Full Report
+## 08. Full Report <a name="full-prototype-report"></a>
 
 [**View Full Prototype Report (PDF)**]({{ "/assets/pdf/ODP 5.pdf" | relative_url }})
 </div>
@@ -143,7 +151,6 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 <div markdown="1">
 
-# Client Report — Inline Separation of Spotted Lanternflies (SLF)
 
 ## Quick Navigation
 - [1. System Overview](#system-overview)
