@@ -23,7 +23,7 @@ Current sorting methods manual labor or post-harvest washing can remove up to 50
 ## 02. The Solution: SLF Inline Sorter
 Our team proposed a mechanical system designed to be retrofitted onto existing conveyor systems. The goal is to remove SLF without bruising grapes, slowing the harvest, or requiring a total harvester redesign.
 
-### Key Design Features:
+## 03. Key Design Features:
 * **Preliminary Sorting:** A motor-driven roller with specialized bristles to gently agitate the grapes and surface the insects.
 * **Pneumatic Extraction:** High-velocity compressed air jets (5–10m/s) targeted to expel adult SLF based on their specific mass (0.2–0.3g).
 * **Vacuum Collection:** A synchronized suction system to capture expelled SLF for contained disposal, preventing re-entry into the harvest stream.
@@ -31,19 +31,21 @@ Our team proposed a mechanical system designed to be retrofitted onto existing c
 > **Why it’s better:** Unlike standard MOG (Material Other than Grapes) systems, this is specifically tuned for the weight and grip strength of the Spotted Lanternfly.
 
 
-## 03. Engineering Considerations & Risk Mitigation
+## 04. Engineering Considerations & Risk Mitigation
 To move from concept to reality, our design addresses several critical engineering constraints:
 * **Volumetric Flow:** Adjusting air pressure dynamically to ensure insects aren't buried under high-density grape layers.
 * **Yield Preservation:** Ensuring the pneumatic force is sufficient to move an insect but insufficient to bruise a grape.
 * **Sanitation:** Designing the roller and vacuum components to meet food-grade cleaning requirements for harvest equipment.
 
 
-## 04. Technical Documentation & Industry Context
+## 05. Technical Documentation & Industry Context
 For a deep dive into our technical analysis, risk mitigation strategies, and the questions we developed for our industry clients (CALS Extension / E&J Gallo Winery), you can view our full client outline below.
+
+## 06. Full Report
 
 [**Download Full Client Outline (PDF)**]({{ "/assets/pdf/Client Outline and Pitch.pdf" | relative_url }})
 
-### Industry Research
+## 07. Industry Research
 Our design was informed by current state-of-the-art optical and mechanical sorting technologies used in large-scale agriculture:
 * [Harvest Optimization Technology (MOG)](https://www.youtube.com/watch?v=JEM50O9d-M8)
 * [Optical Sorting in Motion](https://www.youtube.com/watch?v=iSd4RgrFOtg)
@@ -61,12 +63,12 @@ Our design was informed by current state-of-the-art optical and mechanical sorti
 
 ## Functional Prototype
 
-### Purpose
+## 01. Purpose
 The purpose of this functional prototype was to evaluate whether a brush-based mechanical system could effectively dislodge Spotted Lanternflies (SLF) from grape clusters without damaging the fruit or disrupting flow conditions. The prototype focuses on validating the feasibility of mechanical agitation as a primary separation method.
 
 ---
 
-### Prototype Design
+## 02. Prototype Design
 
 The prototype consists of a simplified inline system including:
 
@@ -78,7 +80,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ---
 
-### Prototype Sketch
+## 03. Prototype Sketch
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/agkgdfa .png' | relative_url }}" 
@@ -90,7 +92,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ---
 
-### Assembled Prototype
+## 04. Assembled Prototype
 
 <div style="text-align: center;">
   <img src="{{ '/assets/images/IMG_1492.jpg' | relative_url }}" 
@@ -101,7 +103,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ---
 
-### What Was Tested
+## 05. What Was Tested
 
 - Brush rotation speed and its effect on SLF removal  
 - Bristle coverage across the conveyor width  
@@ -110,7 +112,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ---
 
-### Results & Outcomes
+## 06. Results & Outcomes
 
 - Optimal brush speed identified at approximately **500 RPM**  
 - SLF removal efficiency reached **~70–75% per pass**  
@@ -120,7 +122,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ---
 
-### Key Takeaways
+## 07. Key Takeaways
 
 - Mechanical brushing is an effective **preliminary separation method**  
 - System performance depends heavily on **uniform material flow**  
@@ -128,7 +130,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ---
 
-### Full Report
+## 08. Full Report
 
 [**View Full Prototype Report (PDF)**]({{ "/assets/pdf/ODP 5.pdf" | relative_url }})
 </div>
