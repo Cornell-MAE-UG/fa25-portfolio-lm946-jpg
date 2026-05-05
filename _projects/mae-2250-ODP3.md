@@ -192,6 +192,8 @@ This multi-stage design ensures that separation is **progressive rather than sin
 
 ## 3. Prototype Construction <a name="prototype-construction"></a>
 
+This section is a documentation of the process of building the final project.
+
 ### 3.1 Concept Sketch
 
 <div style="text-align:center;">
