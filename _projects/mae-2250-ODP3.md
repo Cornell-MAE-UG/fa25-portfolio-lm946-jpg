@@ -343,7 +343,6 @@ The system is **functionally validated at prototype scale** and shows strong pot
 
 
 
-
 ## Project Overview
 
 Mechanical grape harvesting operates at high throughput rates (2–3 tons/hour), where even minor contamination by Spotted Lanternflies (SLF) can result in rejected harvest loads and significant economic loss. Existing mitigation strategies such as manual sorting or post-harvest washing are not scalable and often result in reduced yield and increased labor costs.
