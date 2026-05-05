@@ -142,9 +142,207 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 <summary><strong>3. Client Report</strong></summary>
 
 <div markdown="1">
-### The Problem
+<details>
+<summary><strong>3. Client Report</strong></summary>
+
+<div markdown="1">
+
+# Client Report — Inline Separation of Spotted Lanternflies (SLF)
+
+## Quick Navigation
+- [1. System Overview](#system-overview)
+- [2. Final System Architecture](#system-architecture)
+- [3. Prototype Construction](#prototype-construction)
+- [4. Testing & Performance](#testing--performance)
+- [5. Demonstrations](#demonstrations)
+- [6. Conclusions & Next Steps](#conclusion)
+
+---
+
+## 1. System Overview <a name="system-overview"></a>
+
+The final system addresses a high-throughput agricultural challenge: **Spotted Lanternfly (SLF) contamination in mechanically harvested grapes**. At industrial harvesting rates (2–3 tons/hour), even small contamination levels can lead to rejected loads.
+
+Rather than relying on post-harvest sorting or manual labor, the proposed solution integrates a **continuous inline mechanical separation system** directly into the harvesting flow. The system is designed to be **retrofit-compatible**, meaning it can be added to existing conveyor-based harvesters without redesigning the entire machine.
+
+The separation strategy is based on three physical principles:
+
+- **Mechanical agitation** to dislodge insects from grape clusters  
+- **Controlled airflow separation** to exploit mass and aerodynamic differences  
+- **Continuous conveyor transport** to maintain throughput without interruption  
+
+---
+
+## 2. Final System Architecture <a name="system-architecture"></a>
+
+The final design combines mechanical and pneumatic subsystems into a continuous flow pipeline:
+
+- **Conveyor Belt System:** Maintains steady transport of grape clusters  
+- **Rotary Brush Module:** Applies controlled agitation to expose hidden SLF  
+- **Airflow Separation Unit:** Uses directed high-speed air to remove insects  
+- **Dual Collection System:** Separates grapes and SLF into independent bins  
+- **Secondary Capture Zone:** Prevents re-entrainment of dislodged insects  
+
+This multi-stage design ensures that separation is **progressive rather than single-pass**, improving reliability while preserving grape integrity.
+
+---
+
+## 3. Prototype Construction <a name="prototype-construction"></a>
+
+### 3.1 Concept Sketch
+
+<div style="text-align:center;">
+  <img src="{{ '/assets/images/agkgdfa.png' | relative_url }}" style="width:65%; border-radius:8px;">
 </div>
 
+*Initial system layout showing conveyor flow, brush placement, airflow zone, and collection regions.*
+
+---
+
+### 3.2 CAD Development
+
+Two CAD perspectives were used to validate spatial layout and subsystem integration:
+
+<div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+  <img src="{{ '/assets/images/cad_angle_1.jpg' | relative_url }}" style="width:48%; border-radius:8px;">
+  <img src="{{ '/assets/images/cad_angle_2.jpg' | relative_url }}" style="width:48%; border-radius:8px;">
+</div>
+
+*CAD models used to validate alignment of brush shaft, airflow direction, and conveyor clearance.*
+
+---
+
+### 3.3 Physical Prototype Build
+
+The final prototype was constructed using a combination of **wood, cardboard, and 3D-printed components** to replicate industrial-scale behavior at bench scale.
+
+#### Structural Frame
+- Two wooden side walls mounted on a long wooden baseboard  
+- Ensures alignment and stability of conveyor subsystem  
+
+#### Conveyor System
+- Two cardboard rollers (paper towel cores) act as drums  
+- Paper belt wrapped tightly and reinforced with wax paper  
+- Wooden dowels run through roller centers to enable rotation  
+- Dowels pass through drilled holes in side walls  
+- 3D-printed knobs attached for manual actuation  
+
+#### Rotary Brush System
+- Drill-driven **machined steel shaft** used as the main agitator  
+- Shaft connected via drill chuck for controlled RPM variation  
+- Three 3D-printed shaft rings positioned along shaft length  
+- Each ring holds bristles in evenly spaced slots for uniform contact  
+- System supported by a reinforced 3D-printed mount on opposite wall  
+
+#### Airflow System
+- Hair dryer used to simulate compressed air jets  
+- Positioned adjacent to brush zone for immediate separation response  
+
+#### Collection System
+- 3D-printed angled bin for grapes at conveyor exit  
+- Secondary side-mounted bin captures airborne SLF  
+- Both bins aligned with conveyor edges for clean separation flow  
+
+#### Flow Control Features
+- Thin wooden ridges added across conveyor surface to simulate grip variation  
+- System height adjusted iteratively to prevent jamming and improve flow  
+
+---
+
+### 3.4 Final Assembled Prototype
+
+<div style="text-align:center;">
+  <img src="{{ '/assets/images/IMG_1492.jpg' | relative_url }}" style="width:70%; border-radius:8px;">
+</div>
+
+*Final assembled prototype integrating conveyor, brush system, airflow unit, and dual collection bins.*
+
+---
+
+## 4. Testing & Performance <a name="testing--performance"></a>
+
+Testing was conducted using **fresh grapes and paper SLF models** to evaluate:
+
+- Separation efficiency  
+- Fruit integrity  
+- Flow stability across conveyor system  
+- Sensitivity to brush speed and airflow strength  
+
+### Key Experimental Findings
+
+- **Optimal brush speed:** ~500 RPM  
+- **Best performance configuration:**  
+  - Medium conveyor speed  
+  - High airflow setting (Dyson Airwrap high mode)  
+  - Continuous brush contact across full width  
+
+- **Average SLF removal efficiency:** ~70–75% per pass  
+- **Grape damage:** Negligible under optimal settings  
+- **Primary limitation:** Non-uniform brush coverage across conveyor width  
+
+### Observed Failure Modes
+- Uneven bristle density caused spatial variation in removal efficiency  
+- Conveyor alignment inconsistencies occasionally disrupted flow continuity  
+- Lightweight SLF models responded more consistently than heavier grape clusters  
+
+---
+
+### Testing in Action
+
+#### Live Prototype Operation
+<div style="text-align:center;">
+  <video width="70%" controls>
+    <source src="{{ '/assets/videos/prototype_demo.mp4' | relative_url }}" type="video/mp4">
+  </video>
+</div>
+
+*Full system operation showing conveyor movement, brush interaction, and airflow separation.*
+
+---
+
+#### SLF Removal Testing
+<div style="text-align:center;">
+  <video width="70%" controls>
+    <source src="{{ '/assets/videos/testing_slfs.mp4' | relative_url }}" type="video/mp4">
+  </video>
+</div>
+
+*Targeted testing of SLF removal efficiency under varying RPM and airflow conditions.*
+
+---
+
+## 5. Demonstrations <a name="demonstrations"></a>
+
+This system demonstrates a complete **continuous inline separation workflow**:
+
+1. Grapes enter conveyor system  
+2. Rotary brush agitates clusters and exposes insects  
+3. Airflow subsystem removes dislodged SLF  
+4. Dual collection system separates outputs  
+5. Grapes exit with reduced contamination load  
+
+The system maintains throughput while introducing **no interruption to flow**, which is critical for industrial scalability.
+
+---
+
+## 6. Conclusions & Next Steps <a name="conclusion"></a>
+
+### Conclusion
+The prototype successfully demonstrates that **mechanical agitation + pneumatic separation** can significantly reduce SLF contamination while preserving grape integrity and maintaining continuous flow conditions.
+
+### Recommended Improvements
+- Improve brush uniformity across full conveyor width  
+- Replace hair dryer with engineered compressed air manifold (5–10 m/s target)  
+- Add vacuum-assisted capture to prevent SLF re-entrainment  
+- Transition to higher-throughput testing conditions representative of vineyard-scale operations  
+- Replace cardboard conveyor with rigid industrial-grade belt system for durability testing  
+
+### Overall Assessment
+The system is **functionally validated at prototype scale** and shows strong potential for further development toward field-ready deployment.
+
+---
+
+</div>
 </details>
 
 
