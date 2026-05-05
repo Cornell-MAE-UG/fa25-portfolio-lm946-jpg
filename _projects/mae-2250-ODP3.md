@@ -142,10 +142,6 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 <summary><strong>3. Client Report</strong></summary>
 
 <div markdown="1">
-<details>
-<summary><strong>3. Client Report</strong></summary>
-
-<div markdown="1">
 
 # Client Report — Inline Separation of Spotted Lanternflies (SLF)
 
