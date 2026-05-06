@@ -361,7 +361,7 @@ The system is **functionally validated at prototype scale** and shows strong pot
 ---
 ## 7. Client Report <a name="client-report"></a>
 
-[**View Full Prototype Report (PDF)**]({{ "/assets/pdf/MAE2250 ODP 6.pdf" | relative_url }})
+[**View Full Prototype Report (PDF)**]({{ "/assets/pdf/MAE2250 ODP6.pdf" | relative_url }})
 
 ---
 
