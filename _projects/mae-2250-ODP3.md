@@ -159,6 +159,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 - [4. Testing & Performance](#testing--performance)
 - [5. Demonstrations](#demonstrations)
 - [6. Conclusions & Next Steps](#conclusion)
+- [7. Client Report](#client-report)
 
 ---
 
@@ -349,6 +350,12 @@ The prototype successfully demonstrates that **mechanical agitation + pneumatic 
 The system is **functionally validated at prototype scale** and shows strong potential for further development toward field-ready deployment.
 
 ---
+## 7. Client Report <a name="client-report"></a>
+
+[**View Full Prototype Report (PDF)**]({{ "/assets/pdf/MAE2250 ODP 6.pdf" | relative_url }})
+
+---
+
 
 </div>
 </details>
