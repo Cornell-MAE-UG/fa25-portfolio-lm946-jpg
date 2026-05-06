@@ -21,7 +21,7 @@ The development of this system is documented through the following milestones. C
 - [3. Key Design Features](#key-design)
 - [4. Engineering Considerations & Risk Mitigation](#risk)
 - [5. Technical Documentation & Industry Context](#industry-context)
-- [6. Full Report](#full-prototype-report-1)
+- [6. Client Pitch](#full-prototype-report-1)
 - [7. Industry Research](#industry-research)
 
 ## 01. The Problem <a name="the-problem"></a>
@@ -50,7 +50,7 @@ To move from concept to reality, our design addresses several critical engineeri
 ## 05. Technical Documentation & Industry Context <a name="industry-context"></a>
 For a deep dive into our technical analysis, risk mitigation strategies, and the questions we developed for our industry clients (CALS Extension / E&J Gallo Winery), you can view our full client outline below.
 
-## 06. Full Report <a name="full-prototype-report-1"></a>
+## 06. Client Pitch <a name="full-prototype-report-1"></a>
 
 [**Download Full Client Outline (PDF)**]({{ "/assets/pdf/Client Outline and Pitch.pdf" | relative_url }})
 
@@ -78,7 +78,7 @@ Our design was informed by current state-of-the-art optical and mechanical sorti
 - [5. What Was Tested](#what-was-tested)
 - [6. Results & Outcomes](#results-and-outcomes)
 - [7. Key Takeaways](#key-takeaways)
-- [8. Full Report](#full-prototype-report)
+- [8. Functional Prototype Report](#full-prototype-report)
 
 ## 01. Purpose <a name="system-overview"></a>
 The purpose of this functional prototype was to evaluate whether a brush-based mechanical system could effectively dislodge Spotted Lanternflies (SLF) from grape clusters without damaging the fruit or disrupting flow conditions. The prototype focuses on validating the feasibility of mechanical agitation as a primary separation method.
@@ -147,7 +147,7 @@ This setup replicates the key interactions between brush, grapes, and contaminan
 
 ---
 
-## 08. Full Report <a name="full-prototype-report"></a>
+## 08. Functional Prototype Report <a name="full-prototype-report"></a>
 
 [**View Full Prototype Report (PDF)**]({{ "/assets/pdf/ODP 5.pdf" | relative_url }})
 </div>
