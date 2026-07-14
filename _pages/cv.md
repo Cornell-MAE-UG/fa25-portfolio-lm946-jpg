@@ -52,14 +52,14 @@ Aspiring engineering student with a strong foundation in aerospace design. Passi
 #### Work Experience
 
 - **Skygear - Mechanical Design Intern**  
-  May 2025 – Aug 2025 | Gurugram, India  
+  May 2025 – Aug 2025  
   - Designed and fabricated a static engine test stand for a 110cc horizontally opposed internal combustion engine, incorporating load-bearing fixtures, vibration isolation, and throttle actuation.  
   - Supported propulsion system integration on the Dronocopter UAV platform, assisting with engine mounting, CG alignment, and vibration isolation using elastomeric bushings.  
   - Created 3D models & 2D manufacturing drawings in Creo for custom brackets, couplings, and support structures, collaborating with technicians during fabrication and assembly.  
   - Assisted in dynamic balancing of propeller–engine assemblies to reduce vibration, referencing applicable tolerance guidelines.  
 
 - **Cornell University Unmanned Air Systems (CUAir) - Airframe Engineer**  
-  Nov 2024 – Present | Ithaca, NY  
+  Nov 2024 – Present  
   - Led structural design of an inverted V-tail, including spars, spar caps, ribs, and structural vs. non-structural skin; extracted flight loads from XFLR5 and translated them into internal load paths and component placement using hand calculations.  
   - Performed stress and deflection analysis of tail spars and spar caps in ANSYS; iterated geometry and layups to meet stiffness and strength requirements under flight loading.  
   - Modeled ribs, spars, spar caps, connectors, and rib supports in SolidWorks; fabricated ribs and structural supports via laser cutting and FDM 3D printing for airframe integration.  
@@ -67,7 +67,7 @@ Aspiring engineering student with a strong foundation in aerospace design. Passi
   - Manufactured wings, tail, fuselage, and structural skeleton of a 12-ft wingspan eVTOL aircraft using carbon fiber, fiberglass, and epoxy resin composite wet layup process.  
 
 - **Cornell Aerospace Adversary Laboratory - Undergraduate Researcher**  
-  Nov 2024 – Present | Ithaca, NY  
+  Nov 2024 – Present 
   - Designed and prototyped custom drone parts, including lightweight structural parts and streamlined external components, using SolidWorks and AutoCAD.  
   - Tested and evaluated payload mounting systems for secure attachment and impact resistance under simulated takeoff and landing conditions.  
   - Worked under Dr. Gregory Falco and collaborated with a cross-disciplinary team of engineers to design and refine UAV components integrating avionics and tracking systems.
