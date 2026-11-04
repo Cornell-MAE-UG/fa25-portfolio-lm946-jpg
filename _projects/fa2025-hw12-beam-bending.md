@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Beam Bending Actuator Project
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/image.jpg
 ---
 
 
