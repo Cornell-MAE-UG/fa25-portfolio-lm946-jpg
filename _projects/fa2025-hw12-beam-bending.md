@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Beam Bending Actuator Project
+title: Beam Bending 
 image: /assets/images/image2.png
 ---
 
