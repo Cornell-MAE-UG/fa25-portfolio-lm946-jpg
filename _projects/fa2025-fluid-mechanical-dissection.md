@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Fluid-Mechanical Dissection
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/cfd_plane.jpg
 ---
 
 
